@@ -1,3 +1,6 @@
+"devDependencies": {
+  "vite": "^5.0.0"
+}
 {
   "name": "nexaai",
   "private": true,
